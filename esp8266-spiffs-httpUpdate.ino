@@ -15,7 +15,7 @@
 
 ESP8266WiFiMulti WiFiMulti;
 
-const int ledPin = 5;
+const int ledPin = LED_BUILTIN;
 
 void setup() {
 
