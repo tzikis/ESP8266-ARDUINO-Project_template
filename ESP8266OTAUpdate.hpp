@@ -8,7 +8,7 @@
 #include <ESP8266httpUpdate.h>
 
 
-#define __CODEBENDER_UPDATE_URL__ "http://testota.codebender.cc/api/update/CODEBENDER_API_KEY"
+#define __CODEBENDER_UPDATE_URL__ "http://esp.codebender.cc/api/update/CODEBENDER_API_KEY"
 #define __CODEBENDER_AUTO_VERSION__ "0000000000"
 
 
